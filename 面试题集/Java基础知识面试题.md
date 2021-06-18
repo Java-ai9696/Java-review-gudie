@@ -10,18 +10,18 @@
 
 ## QQ群
 
-Android开发交流QQ群：**930254941**  （备注一下GitHub，免得被认成打无良广告的）
+Android开发交流QQ群：**863621962**  （备注一下GitHub，免得被认成打无良广告的）
 
-快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=Xu0ju5PW)
+快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=k8va5GM3)
 
-![](https://upload-images.jianshu.io/upload_images/11474088-f15f3310f6b7610f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://user-images.githubusercontent.com/85690089/122575282-2b427180-d083-11eb-98ab-3ad4c753d582.png)
 
 
 >PS：
 >
->>平常很忙，或者直接加小夕小姐姐微信领取就好了，免费获取的！
+>>平常很忙，或者直接加小姐姐微信领取就好了，免费获取的！
 
-![](https://upload-images.jianshu.io/upload_images/11474088-d4fa503624f05687.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://user-images.githubusercontent.com/85690089/122575297-309fbc00-d083-11eb-9d32-86ee0498fbd4.png)
 
 ## Java概述
 
@@ -1459,8 +1459,3 @@ public static void main(String[] args) {
 
 ## 日志
 
-## 微信公众号
-
-**码农清风**
-
-![](https://upload-images.jianshu.io/upload_images/11474088-febaefa23584b47f.gif?imageMogr2/auto-orient/strip)
